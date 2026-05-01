@@ -2,6 +2,7 @@
 
 ![Product Screen](./assets/ProductScreen.PNG)
 ![Cart Screen](./assets/CartScreen.PNG)
+
 Hello! This is a simple Add to Cart app built using React Native and Expo.
 
 ## Features
