@@ -20,10 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.samteng22.addtocart"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d7001130-455b-4d21-99ec-a3896d5632cf"
+      }
     }
   }
 }
